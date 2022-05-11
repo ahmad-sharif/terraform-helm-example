@@ -5,6 +5,8 @@ This repository shows how to use Helm with Terraform using the official [Helm pr
 This deploys a monitoring infrastructure with [Grafana](https://grafana.com/) & [Prometheus](https://prometheus.io/) 
 as a concrete example.
 
+[How to use this repo ?] (https://getbetterdevops.io/terraform-with-helm/)
+
 ## Requirements
 
 * `Helm >= 3.0`
